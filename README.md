@@ -1,6 +1,16 @@
 # get-shit-done
 
-a Todo webapp with frontend/backend separation.
+A Todo webapp with frontend/backend separation.
+
+# Requirements
+
+- Python
+- `npm`
+
+# Tech Stack
+
+- Django for backend
+- React for frontend
 
 # Setup
 
