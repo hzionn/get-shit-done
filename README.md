@@ -13,7 +13,7 @@ Clone the repository.
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run migrations to create the database:
     ```
-    python manage.py makemigrations
+    python manage.py makemigrations todo
     python manage.py migrate
     ```
 5. Run the development server and keep it running: `python manage.py runserver`
